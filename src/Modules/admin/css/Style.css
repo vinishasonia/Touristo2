@@ -1,0 +1,13 @@
+/* styles.css */
+.custom-app-bar {
+  background-color: grey;
+  box-shadow: none;
+}
+.background-div {
+  /* background-image: url('../Images/background.jpg');  */
+
+  background-image: url('../../user/Images/bg_2.jpg');
+  /* Adjust the path based on your project structure */
+  background-repeat: no-repeat;
+  background-size: cover;
+}
